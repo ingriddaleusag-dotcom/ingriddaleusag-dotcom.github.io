@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.koreplay.mobile",
+      "sha256_cert_fingerprints": [
+        "CE:52:C0:DD:68:5A:CA:36:7D:FA:FF:9D:37:2D:E6:88:76:0A:72:A3:8F:13:E8:95:E9:BC:BD:E4:31:32:6B:F9"
+      ]
+    }
+  }
+]
